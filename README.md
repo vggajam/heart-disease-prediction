@@ -25,14 +25,14 @@ Data science helps us in processing the historical data available to us and deve
 The dataset originally comes from the CDC and is a major part of the Behavioral Risk Factor Surveillance System (BRFSS), which conducts annual telephone surveys to collect data on the health status of U.S. residents​
 
 ### Description of the data (features, size, format) ​
-#####Format
+####Format
 csv​
 
-#####Size
+####Size
 - A version of the file with missing data (NaNs): 445,132 rows. = 139.87MB​
 - A version of the file without missing data (NaNs): 246,022 rows. = 81.98 MB​
 
-#####Features
+####Features
 There are 40 features available in dataset including PhysicalActivities, SleepHours, HadStroke, etc
 a summary of your dataset, etc. 
 Update this file as you progress.
